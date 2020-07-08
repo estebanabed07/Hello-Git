@@ -83,3 +83,11 @@ export  $initHighlight;
 | ------ | -------- | --------- |
 | Esteban | Abed | 35326231 |
 | Tomas | Thompson | 132423432 |
+
+# Citas
+Esto es un texto referente a una cita que pondresmo abajo:
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior:
+> Esto es otra cita.
+
