@@ -77,3 +77,9 @@ function $initHighlight(block, cls) {
 
 export  $initHighlight;
 ```
+
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Esteban | Abed | 35326231 |
+| Tomas | Thompson | 132423432 |
